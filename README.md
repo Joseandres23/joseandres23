@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi world 👋
 
-<!--
-**Joseandres23/joseandres23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const: "joseandres"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently student  ...
+code: "javascript ![js](https://github.com/Joseandres23/joseandres23/assets/148077555/bd002965-433f-4801-90b1-e7dc44946886)
+
+
+- 🔭 I’m currently student  ...![student](https://github.com/Joseandres23/joseandres23/assets/148077555/a4a02d6c-9878-48b3-a2fa-ac80247f0e73)
+
 - 🌱 I’m currently learning javascript ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
